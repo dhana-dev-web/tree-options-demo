@@ -10,7 +10,7 @@
 <script>
 import { defineComponent, ref } from "vue";
 
-const linksList = [
+const linksData = [
   {
     title: "Docs",
     caption: "quasar.dev",
